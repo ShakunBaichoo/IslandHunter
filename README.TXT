@@ -9,4 +9,4 @@ Note: (1) The "Results" directory contains a sample resultset after running Isla
       (2) The "Sample Mycobacteria Files" contains some sample .emb, .gbk and .fasta files
 In order to run IslandHunter: simply click on IslandHunter.jar
 
-The IslandHunter team
+Shakuntala Baichoo
